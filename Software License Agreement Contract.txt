@@ -1,0 +1,447 @@
+Software License Agreement 
+
+This Software License Agreement is made on [AGREEMENT DATE] between [LICENSOR NAME], a 
+[CORPORATE JURISDICTION] corporation with its principal place of business at [LICENSOR ADDRESS] 
+("[PARTY A]") and [LICENSEE NAME], a [CORPORATE JURISDICTION] corporation with its principal 
+place of business at [LICENSEE ADDRESS] ("[PARTY B]"). 
+
+The parties agree to the terms of this agreement. 
+
+1. License Grant 
+1.1 Software License. [PARTY A] hereby grants to [PARTY B] [an exclusive / a non-exclusive], 
+[transferable / non-transferable], [sublicensable / non-sublicensable], [revocable / irrevocable] 
+license (the "[DELIVERABLE]") to use the Software. 
+1.2 No Other Rights. [PARTY A] reserves for itself all other rights and interest not explicitly granted 
+under this agreement. 
+1.3 Software. "Software" means [SHORT DESCRIPTION OF SOFTWARE] [the software described in the 
+[ATTACHMENT], attached to this agreement]. 
+2. Make Software Available for Download. On the later of the Effective Date and [PARTY B]'s first 
+payment for the Software, [PARTY A] will make the Software available to [PARTY B] in an electronic, 
+downloadable format from [PARTY A]'s website, at [INSERT URL OF WEBSITE]. 
+3. Training and Support Services 
+3.1 Training. [PARTY A] shall, at [PARTY A]'s expense, provide [PARTY B]'s employees with the initial 
+training services necessary and desirable to operate the Software, as further described in the 
+[ATTACHMENT], attached to this agreement, at [PARTY B]'s offices and on days and times the parties 
+agree to in writing. 
+3.2 Support 
+a. Initial Support. For the [12] month period beginning on the Effective Date, and at [PARTY 
+A]'s own expense, [PARTY A] shall provide [PARTY B] with 
+i. telephone or electronic support during [PARTY A]'s normal business hours in order to 
+help [PARTY B] locate and correct problems with the Software, and 
+ii. internet-based support system generally available seven days a week, twenty-four 
+hours a day. 
+b. Renewed Support. After the initial [12] month support period, [PARTY B] may elect to 
+renew [PARTY A]'s support services under this paragraph [SUPPORT] for additional [12] 
+month periods, at [PARTY A]'s then-current service rates. 
+4. Updates and Maintenance Services 
+4.1 Updates. [PARTY A] shall provide [PARTY B], at [PARTY A]'s sole expense, with all updates, 
+extensions, enhancement, modifications, and other changes [PARTY A] makes or adds to the 
+Software and which [PARTY A] offers to other licensees of the Software. 
+1 of 11 
+
+
+4.2 Fixes and Patches. [PARTY A] shall provide [PARTY B], at [PARTY A]'s sole expense, with bug fixes 
+and code corrections to correct Software malfunctions and defects in order to bring the 
+Software into substantial conformity with its operating specifications. 
+4.3 Exceptions. [PARTY A] may, but will not be required to, provide these maintenance services if 
+[PARTY B] has modified the Software or is in default. 
+5. License Fees. [PARTY B] will pay [PARTY A] the license fee [of $[LICENSE FEE] / listed in 
+[ATTACHMENT]] (the "License Fee"). 
+6. License Fees 
+6.1 License Fee Paid in Full. [PARTY B] will pay the License Fee to [PARTY A] 
+a. in full, 
+b. due on [DATE, MONTH], 
+c. in immediately available funds, and 
+d. to the account [PARTY A] lists immediately below: 
+Account Number: 
+
+Routing Number: 
+
+7. Taxes. Payment amounts under this agreement do not include Taxes. [PARTY B] will pay all Taxes 
+applicable to payments between the parties under this agreement. 
+8. Interest on Late Payments. Any amount not paid when due will bear interest from the due date 
+until paid at a rate equal to [1]% per month ([12.68]% annually) or the maximum allowed by Law, 
+whichever is less. 
+9. User Obligations 
+9.1 Hardware Obligations. [PARTY B] shall be responsible for 
+a. obtaining and maintaining all computer hardware, software, and communications 
+equipment needed to internally access the Service, and 
+b. paying all third party access charges incurred while using the Service. 
+9.2 Anti-Virus Obligations. [PARTY B] shall be responsible for implementing, maintaining, and 
+updating all necessary and proper procedures and software for safeguarding against computer 
+infection, viruses, worms, Trojan horses, and other code that manifest contaminating or destructive 
+properties (collectively "Viruses"). 
+9.3 [PARTY B]'s Use of Services. [PARTY B] shall 
+a. abide by all local and international Laws and regulations applicable to its use of 
+the Service, 
+b. use the Service only for legal purposes, and 
+c. comply with all regulations, policies and procedures of networks connected to the 
+Service. 
+10. Restricted Uses. [PARTY B] will not 
+2 of 11 
+
+
+10.1 distribute, license, loan, or sell the Software or other content that is contained or displayed in it, 
+10.2 modify, alter, or create any derivative works from the Software, 
+10.3 reverse engineer, decompile, decode, decrypt, disassemble, or derive any source code from the 
+Software, 
+10.4 remove, alter, or obscure any copyright, trademark, or other proprietary rights notice on or in 
+the Software. 
+11. Permitted Uses 
+11.1 Installation. [PARTY B] may install and use the Software solely for [personal, noncommercial][
+internal business] use. 
+11.2 Evaluation Use. If [PARTY B] has ordered an evaluation license, [PARTY B] may use the Software 
+only for evaluation purposes and only during the applicable evaluation period. 
+11.3 Server Deployment. [PARTY B] may install [NUMBER OF SERVER COPIES] of copies of the 
+Software on an internal file server for purposes of downloading and installing the Software on 
+licensed computers within the same internal network. 
+11.4 Home Use. [PARTY B] may install a copy of the Software on a personal or home computer, 
+provided both copies of the Software are not used at the same time. 
+11.5 Backup and Archival Copies. [PARTY B] may make one copy of the Software solely for backup or 
+archival purposes. 
+12. Term. This agreement begins on [the Effective Date / [DATE, MONTH]] and will continue until 
+terminated (the "Term"). 
+13. Representations 
+13.1 Mutual Representations 
+a. Existence. The parties are corporations incorporated and existing under the laws of the 
+jurisdictions of their respective incorporation. 
+b. Authority and Capacity. The parties have the authority and capacity to enter into this 
+agreement. 
+c. Execution and Delivery. The parties have duly executed and delivered this agreement. 
+d. Enforceability. This agreement constitutes a legal, valid, and binding obligation, 
+enforceable against the parties according to its terms. 
+e. No Conflicts. Neither party is under any restriction or obligation that the party could 
+reasonably expect might affect the party's performance of its obligations under this 
+agreement. 
+f. No Breach. Neither party’s execution, delivery, or performance of its obligations under 
+this agreement will breach or result in a default under 
+i. its articles, bylaws, or any unanimous shareholders agreement, 
+ii. any Law to which it is subject, 
+iii. any judgment, Order, or decree of any Governmental Authority to which it is subject, 
+or 
+iv. any agreement to which it is a party or by which it is bound. 
+3 of 11 
+
+
+g. Permits, Consents, and Other Authorizations. Each party holds all Permits and other 
+authorizations necessary to 
+i. own, lease, and operate its properties, and 
+ii. conduct its business as it is now carried on. 
+h. No Disputes or Proceedings. [Except as disclosed in the parties respective Disclosure 
+Schedules] There are no Legal Proceedings pending, threatened, or foreseeable against 
+either party, which would affect that party’s ability to complete its obligations under this 
+agreement. 
+i. No Bankruptcy. Neither party has taken or authorized any proceedings related to that 
+party’s bankruptcy, insolvency, liquidation, dissolution, or winding up. 
+13.2 [PARTY A]'s Representations 
+a. Disclosure Schedule. [PARTY A]'s Disclosure Schedule lists any exceptions to 
+its representations. 
+b. Ownership of Intellectual Property. [Except as disclosed in [PARTY A]'s Disclosure 
+Schedule] [PARTY A] 
+i. is the owner of all Intellectual Property rights included in the Software and 
+granted under in the [DELIVERABLE], and 
+ii. has the exclusive right to grant the [DELIVERABLE]. 
+c. Maintenance of Intellectual Property. [PARTY A] has properly maintained all its 
+Intellectual Property rights licensed under the [DELIVERABLE], including paying all 
+applicable registration and maintenance fees. 
+d. No Prior Grant or Transfer. [PARTY A] has not granted and is not obligated to grant any 
+license to any third party that would conflict with the [DELIVERABLE] under this 
+agreement 
+e. No Infringement. [To [PARTY A]'s Knowledge,] The Software does not infringe the 
+Intellectual Property rights or other rights of any third party. 
+f. No Third Party Infringement. [Except as disclosed in [PARTY A]'s Disclosure Schedule] To 
+[PARTY A]'s Knowledge, no third party is infringing its Intellectual Property rights in 
+the Software. 
+g. Not in Public Domain. The Software is not in the public domain. 
+14. No Warranty 
+14.1 "As-Is". The [Licensed] Software is provided "as is," with all faults, defects, bugs, and errors. 
+14.2 No Warranty. Unless otherwise listed in this agreement, 
+a. [PARTY A] does not make any warranty regarding the [Licensed] Software, which includes 
+that 
+b. [PARTY A] disclaims to the [fullest] extent authorized by Law any and all [other] 
+warranties, whether express or implied, including any implied warranties of [title, non-
+infringement, quiet enjoyment, integration,] merchantability or fitness for a particular 
+4 of 11 
+
+
+purpose. 
+
+15. Intellectual Property. [PARTY A] will retain exclusive interest in and ownership of its Intellectual 
+Property rights in and to the Software and expressly reserves all rights not expressly granted under 
+this agreement. 
+16. Government End Users 
+16.1 "Commercial Software". If [Licensed] Software and related documentation are supplied to or 
+purchased by or on behalf of the United States Government, 
+a. that [Licensed] Software will be deemed to be "commercial software", as that term is 
+used in the Federal Acquisition Regulation system, and 
+b. the rights of the United States will not exceed the minimum rights listed in FAR 52.227-19 
+for "restricted computer software". 
+16.2 All Other Terms Apply. All other terms and conditions of this agreement otherwise apply. 
+17. [PARTY B] Data 
+17.1 Collect and Use of Data. [PARTY A] may collect and use technical information gathered as part 
+of its maintenance, support, and training services, only for the purpose of improving its products and 
+services. 
+17.2 Non-Disclosure. [PARTY A] will not disclose this any of this information in a form that personally 
+identifies [PARTY B] or [PARTY B]'s clients. 
+18. Compliance with Laws. Each party will 
+18.1 comply with all applicable Laws [relating to [SUBJECT MATTER OF AGREEMENT]], and 
+18.2 notify the other party if it becomes aware of any non-compliance in connection with this 
+section. 
+19. Export Control Laws. Each party shall obtain all Permits necessary to and otherwise comply with 
+all Laws on export control applicable to this agreement and all transactions contemplated under this 
+agreement. 
+20. Source Code Escrow. On [PARTY B]'s written request, [PARTY A] shall place the source code for 
+the Software into escrow with [ESCROW COMPANY NAME] (the "Escrow Company") for [PARTY 
+B]'s benefit, subject to [PARTY B]'s execution of (and the terms and conditions of) [PARTY A]'s 
+standard form of Software Escrow Agreement with Escrow Company and [PARTY B]'s payment of all 
+applicable escrow fees. 
+21. Confidentiality Obligations. The parties continue to be bound by the terms of the non-disclosure 
+agreement between the parties, dated [DATE] and attached to this agreement on [ATTACHMENT]. 
+22. Publicity 
+22.1 Consent. Neither party will use the other party's name, logo, or trademarks, or issue any press 
+release or public announcement regarding this agreement, without the other party's written 
+consent, unless specifically permitted under this agreement or required by Law. 
+5 of 11 
+
+
+22.2 Cooperation. The parties will cooperate to draft all appropriate press releases and other public 
+announcements relating to the subject matter of this agreement and the relationship between the 
+parties. 
+22.3 No Unreasonable Delay. The parties will not unreasonably withhold or delay their consent to 
+press releases or public announcements. 
+23. Termination 
+23.1 Termination on Notice. Either party may terminate this agreement for any reason on 
+[TERMINATION NOTICE BUSINESS DAYS] Business Days’ 
+notice to the other party. 
+23.2 Termination for Material Breach. Each party may terminate this agreement with immediate 
+effect by delivering notice of the termination to the other party, if 
+a. the other party fails to perform, has made or makes any inaccuracy in, or otherwise 
+materially breaches, any of its obligations, covenants, or representations, and 
+b. the failure, inaccuracy, or breach continues for a period of [BREACH CONTINUATION 
+DAYS] Business Days' after the injured party delivers notice to the breaching party 
+reasonably detailing the breach. 
+24. Effect of Termination 
+24.1 Payment Obligations. On the expiration or termination of this agreement, each party shall 
+a. pay any amounts it owes to the other party, including payment obligations for services 
+already rendered, work already performed, goods already delivered, or expenses already 
+incurred, and 
+b. refund any payments received but not yet earned, including payments for services not 
+rendered, work not performed, or goods not delivered, expenses forwarded. 
+24.2 Termination of License Grant. On the expiration or termination of this agreement the 
+[DELIVERABLE] granted under this agreement will terminate with immediate effect. 
+25. Return of Property. On termination or expiration of this agreement, or on [PARTY A]'s request, 
+[PARTY B] will 
+25.1 return to [PARTY A] all originals of the information and other property, including Intellectual 
+Property, it received from [PARTY A], 
+25.2 destroy all copies of such information and other property it has in its possession or control, and 
+25.3 on [PARTY A]'s request, certify to [PARTY A] in writing that it destroyed all such copies. 
+26. Indemnification 
+26.1 Indemnification by [PARTY B]. [PARTY B] (as an indemnifying party) shall indemnify [PARTY 
+A] (as an indemnified party) against all losses and expenses in connection with any 
+proceeding arising out of 
+a. [PARTY B]'s use of the Software, and 
+6 of 11 
+
+
+b. [PARTY B]'s unauthorized customization, modification, or other alterations to the 
+Software, including claims that its customization, modification, or other alterations 
+infringe a third party's Intellectual Property rights, 
+26.2 Mutual Indemnification. Each party (as an indemnifying party) shall indemnify the other (as an 
+indemnified party) against all losses in connection with any proceeding arising out of the 
+indemnifying party's willful misconduct or gross negligence. 
+26.3 Notice and Failure to Notify 
+a. Notice Requirement. Before bringing a claim for indemnification, the indemnified 
+party shall 
+i. notify the indemnifying party of the indemnifiable proceeding, and 
+ii. deliver to the indemnifying party all legal pleadings and other documents reasonably 
+necessary to indemnify or defend the indemnifiable proceeding. 
+b. Failure to Notify. If the indemnified party fails to notify the indemnifying party of the 
+indemnifiable proceeding, the indemnifying will be relieved of its indemnification 
+obligations to the extent it was prejudiced by the indemnified party's failure. 
+26.4 Exclusive Remedy. The parties' right to indemnification is the exclusive remedy available in 
+connection with the indemnifiable proceedings described in this section [INDEMNIFICATION]. 
+27. Limitation on Liability. Neither party will be liable for breach-of-contract damages that are 
+remote or speculative, or that the breaching party could not reasonably have foreseen on entry into 
+this agreement. 
+28. Definitions 
+"Books and Records" means all books and records, including books of account, ledgers and general, 
+financial and accounting records, machinery and equipment maintenance files, lists of parties to and 
+prospects for franchise agreements, supplier lists, production data, quality control records and 
+procedures, customer complaints, inquiry files, research, development files, records, data (including 
+all correspondence with any Governmental Authority), sales material and records (including pricing 
+history and sales and pricing policies and practices), strategic plans, marketing and promotional 
+surveys, and material, research, and files relating to Intellectual Property. 
+
+"Business Day" means a day other than a Saturday, a Sunday, or any other day on which the principal 
+banks located in New York, New York are not open for business. 
+
+"Disclosure Schedule" means the schedules delivered, before the execution of this agreement, by 
+each party to the other party which list, among other things, items the disclosure of which is 
+necessary or appropriate either in response to an express disclosure requirement contained in a 
+provision of this agreement or as an exception to one or more of the representations or warranties 
+made by the party, or to one or more of the covenants of the party. 
+
+"Effective Date" is defined in the introduction to this agreement. 
+
+7 of 11 
+
+
+["Escrow Company" is defined in section [SOURCE CODE ESCROW] [INCLUDE ONLY IF INCLUDING 
+OPTIONAL SOURCE CODE ESCROW CLAUSE]] 
+
+"Governmental Authority" means 
+
+(a) any federal, state, local, or foreign government, and any political subdivision of any of them, 
+(b) any agency or instrumentality of any such government or political subdivision, 
+(c) any self-regulated organization or other non-governmental regulatory authority or quasi-
+governmental authority (to the extent that its rules, regulations or orders have the force of law), and 
+(d) any arbitrator, court or tribunal of competent jurisdiction. 
+"Intellectual Property" means any and all of the following in any jurisdiction throughout the world 
+(a) trademarks and service marks, including all applications and registrations, and the goodwill 
+connected with the use of and symbolized by the foregoing, 
+(b) copyrights, including all applications and registrations related to the foregoing, 
+(c) trade secrets and confidential know-how, 
+(d) patents and patent applications, 
+(e) websites and internet domain name registrations, and 
+(f) other intellectual property and related proprietary rights, interests and protections (including all 
+rights to sue and recover and retain damages, costs and attorneys' fees for past, present, and future 
+infringement, and any other rights relating to any of the foregoing). 
+"Law" means 
+
+(a) any law (including the common law), statute, bylaw, rule, regulation, order, ordinance, treaty, 
+decree, judgment, and 
+(b) any official directive, protocol, code, guideline, notice, approval, order, policy, or other 
+requirement of any Governmental Authority having the force of law. 
+"Legal Proceeding" means any claim, investigation, hearing, legal action, or other legal, 
+administrative, arbitral, or similar proceeding, whether civil or criminal (including any appeal or 
+review of any of the foregoing). 
+
+"License Fee" is defined in section [LICENSE FEES]. 
+
+"[License Grant]" is defined in section [LICENSE GRANT]. 
+
+8 of 11 
+
+
+"Order" means any decision, order, judgment, award, or similar order of any court of competent 
+jurisdiction, arbitration panel, or Governmental Authority with jurisdiction over the subject matter, 
+whether preliminary or final. 
+
+"Permits" means all material licenses, franchises, permits, certificates, approvals, and authorizations, 
+from Governmental Authorities necessary for the ownership and operation of the party's business. 
+
+"Person" includes 
+
+(a) any corporation, company, limited liability company, partnership, Governmental Authority, joint 
+venture, fund, trust, association, syndicate, organization, or other entity or group of persons, 
+whether incorporated or not, and 
+(b) any individual. 
+"Software" is defined in section [LICENSE GRANT]. 
+
+"Taxes" includes all taxes, assessments, charges, duties, fees, levies, and other charges of a 
+Governmental Authority, including income, franchise, capital stock, real property, personal property, 
+tangible, withholding, employment, payroll, social security, social contribution, unemployment 
+compensation, disability, transfer, sales, use, excise, gross receipts, value-added and all other taxes 
+of any kind for which a party may have any liability imposed by any Governmental Authority, 
+whether disputed or not, any related charges, interest or penalties imposed by any Governmental 
+Authority, and any liability for any other person as a transferee or successor by Law, contract or 
+otherwise. 
+
+"Term" is defined in section [TERM]. 
+
+29. General Provisions 
+29.1 Entire Agreement. The parties intend that this agreement, together with all attachments, 
+schedules, exhibits, and other documents that both are referenced in this agreement and refer to 
+this agreement, 
+a. represent the final expression of the parties' intent relating to the subject matter of this 
+agreement, 
+b. contain all the terms the parties agreed to relating to the subject matter, and 
+c. replace all of the parties' previous discussions, understandings, and agreements relating 
+to the subject matter of this agreement. 
+29.2 Counterparts 
+a. Signed in Counterparts. This agreement may be signed in any number of counterparts. 
+b. All Counterparts Original. Each counterpart is an original. 
+c. Counterparts Form One Document. Together, all counterparts form one single document. 
+29.3 Amendment. This agreement can be amended only by a writing signed by both parties. 
+9 of 11 
+
+
+29.4 Relationship of the Parties 
+a. No Relationship. Nothing in this agreement creates any special relationship between the 
+parties, such as a partnership, joint venture, or employee/employer relationship between 
+the parties. 
+b. No Authority. Neither party has the authority to, and will not, act as agent for or on 
+behalf of the other party or represent or bind the other party in any manner. 
+29.5 Assignment. Neither party may assign this agreement or any of their rights or obligations under 
+this agreement without the other party's written consent. 
+29.6 Notices 
+a. Method of Notice. The parties will give all notices and communications between the 
+parties in writing by (i) personal delivery, (ii) a nationally-recognized, next-day courier 
+service, (iii) first-class registered or certified mail, postage prepaid to the address that a 
+party has notified to be that party's address for the purposes of this section. 
+b. Receipt of Notice. A notice given under this agreement will be effective on 
+i. the other party's receipt of it, or 
+ii. if mailed, the earlier of the other party's receipt of it and the fifth business day after 
+mailing it. 
+29.7 Governing Law and Consent to Jurisdiction and Venue 
+a. Governing Law. This agreement, and any dispute arising out of the [SUBJECT MATTER OF 
+THE AGREEMENT], shall be governed by the laws of the State of [GOVERNING LAW 
+STATE]. 
+b. Consent to Jurisdiction. Each party hereby irrevocably consents to the [exclusive, nonexclusive] 
+jurisdiction and venue of any [state or federal] court located within [VENUE 
+COUNTY] County, State of [VENUE STATE], in connection with any matter arising out of 
+this [agreement / plan] or the transactions contemplated under this [agreement / plan]. 
+c. Consent to Service. Each party hereby irrevocably 
+i. agrees that process may be served on it in any manner authorized by the Laws of the 
+State of [GOVERNING LAW STATE], and 
+ii. waives any objection which it might otherwise have to service of process under the 
+Laws of the State of [GOVERNING LAW STATE]. 
+29.8 Dispute Resolution 
+a. Arbitration. Any dispute or controversy arising out of this agreement and [SUBJECT 
+MATTER OF THE AGREEMENT] will be settled by arbitration in [STATE], according to the 
+rules of the American Arbitration Association then in effect, and by [NUMBER OF 
+ARBITRATORS] arbitrators[s]. 
+b. Judgment. Judgment may be entered on the arbitrator's award in any court having 
+jurisdiction. 
+10 of 11 
+
+
+c. Arbitrator's Authority. The arbitrator will not have the power to award any punitive [or 
+consequential] damages. 
+29.9 Equitable Relief 
+a. Acknowledgment of Irreparable Harm. Each party acknowledges that their breach or 
+threatened breach of their obligations under this agreement would result in irreparable 
+harm to the other party that cannot be adequately relieved by money damages alone. 
+b. Intent to Allow for Equitable Remedies. Accordingly, the parties hereby acknowledge 
+their mutual intent that after any breach of the obligations listed in the paragraph directly 
+above, the non-breaching party may request any applicable equitable remedies from a 
+court, including injunctive relief, without the need for that party to post any security. 
+29.10 Waiver 
+a. Affirmative Waivers. Neither party's failure or neglect to enforce any rights under this 
+agreement will be deemed to be a waiver of that party's rights. 
+b. Written Waivers. A waiver or extension is only effective if it is in writing and signed by the 
+party granting it. 
+c. No General Waivers. A party's failure or neglect to enforce any of its rights under this 
+agreement will not be deemed to be a waiver of that or any other of its rights. 
+d. No Course of Dealing. No single or partial exercise of any right or remedy will preclude 
+any other or further exercise of any right or remedy. 
+29.11 Force Majeure. Neither party will be liable for performance delays nor for non-performance 
+due to causes beyond its reasonable control, except for payment obligations. 
+29.12 Severability. If any part of this agreement is declared unenforceable or invalid, the remainder 
+will continue to be valid and enforceable. 
+29.13 Survival. The parties' obligations under sections [CONFIDENTIALITY OBLIGATIONS], [NONCOMPETITION 
+OBLIGATION], and [EFFECT OF TERMINATION] will survive the [TERMINATION, 
+EXPIRATION, CLOSING DATE] of this agreement. 
+29.14 Headings. The section headings contained in this agreement are for reference purposes only 
+and shall not affect the meaning or interpretation of this agreement. 
+29.15 Attorney Fees. If either party brings an Action to enforce their rights under this agreement, the 
+prevailing party may recover its expenses (including reasonable attorneys' fees) incurred in 
+connection with the Action and any appeal from the losing party. 
+This agreement has been signed by the parties. 
+[PARTY A NAME] [PARTY B NAME] 
+Name: [PARTY A SIGNATORY NAME] Name: [PARTY B SIGNATORY NAME] 
+Title: [PARTY A SIGNATORY TITLE] Title: [PARTY B SIGNATORY TITLE] 
+
+11 of 11 
+
+
